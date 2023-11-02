@@ -1,0 +1,6 @@
+Name,Description,Price,Quantity,CategoryId,BrandId
+Product 1,Description 1,0.99,1,1,1
+Product 2,Description 2,10.0,0,1,1
+Product 3,Description 3,5.49,2,2,2
+Product 4,Description 4,2.5,3,2,2
+Product 5,Description 5,15.99,4,3,3
